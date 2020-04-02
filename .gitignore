@@ -1,0 +1,17 @@
+# Output path
+[Oo]utput/
+
+# Visual Studio files
+.vs/
+
+# Backup files
+*.bak
+
+# Executable files
+source/krnln.boot.stripper/*.exe
+*.obj
+*.lib
+
+# Others
+*.res
+
